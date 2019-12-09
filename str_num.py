@@ -1,5 +1,4 @@
 #Working with strings and numbers
-
 from math import *
 
 word = "smh"
