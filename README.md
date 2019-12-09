@@ -1,3 +1,3 @@
 # Python learning
  Python tutorials
- Jovan STankovic
+ Jovan Stankovic
